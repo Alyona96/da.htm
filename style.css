@@ -1,0 +1,23 @@
+body {
+    color:rgb(26, 207, 231);
+    background-image: url(https://horosho-doma.ru/wordpress/wp-content/uploads/shtory-dlia-gostinoy-07.jpg);
+}
+p {
+    color: white;
+}
+.hello_string {
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rebeccapurple;
+    text-align: center;
+}
+.curtain {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(161, 228, 255);
+    font-weight: lighter;
+}
+
+.bye_string {
+    color:floralwhite;
+    font-size: smaller;
+}
